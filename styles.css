@@ -1,0 +1,71 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+  body {
+    background-color: white;
+  }
+
+  h1 {
+    font-family: 'Poppins', Arial, sans-serif;
+    color: #cf0000;
+    padding: 0;
+    margin: 0;
+  }
+
+  h3 {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #cf0000;
+    padding: 0;
+    margin: 0;
+  }
+
+  #main1 {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+  }
+
+  #main2 {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 400;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    border-color: #eee;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  ul li {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+  }
+
+  th {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 14px;
+  }
+
+  td {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 14px;
+  }
+
+  #hobbies {
+    font-family: 'Poppins', Arial, sans-serif;
+  }
+
+  #contact-me {
+    font-family: 'Poppins', Arial, sans-serif;
+    display: block;
+  }
+
+  img {
+    height: 150px;
+    width: 150px;
+  }
